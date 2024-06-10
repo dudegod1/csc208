@@ -1,6 +1,3 @@
-Here is the markdown-formatted text:
-
-```markdown
 # Exercises
 
 ## Exercise 1
@@ -22,4 +19,3 @@ Here is the markdown-formatted text:
 Since the Four Color Theorem limits the chromatic number of any planar graph to at most 4, a graph that requires 6 colors to properly color its vertices cannot be planar. Therefore, \( K_6 \) is not planar, as it exceeds the 4-color limit set by the Four Color Theorem.
 ```
 
-You can copy and paste this into any markdown editor to see the formatted result.
