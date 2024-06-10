@@ -17,5 +17,3 @@
 2. **Planarity Check using the Four Color Theorem:** The Four Color Theorem states that any planar graph can be colored with at most 4 colors such that no two adjacent vertices share the same color.
 
 Since the Four Color Theorem limits the chromatic number of any planar graph to at most 4, a graph that requires 6 colors to properly color its vertices cannot be planar. Therefore, \( K_6 \) is not planar, as it exceeds the 4-color limit set by the Four Color Theorem.
-```
-
